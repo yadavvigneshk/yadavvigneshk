@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/yadavvigneshk" target="blank"><img src="https://img.shields.io/twitter/follow/yadavvigneshk?logo=twitter&style=for-the-badge" alt="yadavvigneshk" /></a> </p>
 
-- 🔭 Right now, I'm actively engaged in **Frontend Development (ReactJS)**
+- 🔭 Right now, I'm actively engaged in **Frontend Development**
 
 - 🌱 Learning **Advance ReactJS and DSA**
 
