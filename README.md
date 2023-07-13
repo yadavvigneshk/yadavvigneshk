@@ -6,7 +6,7 @@
 
 - 🔭 Right now, I'm actively engaged in **Frontend Development**
 
-- 🌱 Learning ** ReactJS and DSA**
+- 🌱 Learning **ReactJS and DSA**
 
 - 💬 Ask me about **JavaScript**
 
